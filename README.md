@@ -1,7 +1,7 @@
--     # minha conta
+- # minha conta
 - 👀 oi eu sou **Victor**
-- 🌱 estou interessado em...
-- 💞️ estou procurando colaborar em...
+- 🌱 estou interessado em jogos 
+- 💞️ estou procurando colaborar com a suciedade
 - 📫 como chegar ate mim...
 [instagram]_(https://instagram.com/vitindograu52?igshid=YmMyMTA2M2Y=)
 <!
